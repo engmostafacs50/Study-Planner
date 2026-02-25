@@ -1,13 +1,12 @@
 # Study-Planner
 
 ├── model
-│   ├── Subject.java
-│   ├── StudySession.java
-│   └── ReviewItem.java
-│
+    Subject.java
+    StudySession.java
+     ReviewItem.java
+
 
 ├── service
-│   └── StudyManager.java
-│
+  └── StudyManager.java
 
-└── Main.java
+Main.java
